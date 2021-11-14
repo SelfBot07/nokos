@@ -1,0 +1,6 @@
+body {
+     background-image: url('/nokos.jpg');
+     height: 240vh;
+     background-size: cover;
+     background-position: center;
+}
